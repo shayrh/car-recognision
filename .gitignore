@@ -1,21 +1,27 @@
-# Python cache
-__pycache__/
-*.pyc
-
 # Virtual environment
 .venv/
 
 # Model weights
 *.pt
 
-# Images and results
-*.jpg
-*.png
-
-# System files
-.DS_Store
-Thumbs.db
-
-# Ultralytics cache/config
+# Cache
+__pycache__/
+*.pyc
 Ultralytics/
 tmp/
+*.log
+
+# Images and results
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.bmp
+*.gif
+*.mp4
+*.avi
+
+# Windows system files
+*.Identifier
+.DS_Store
+Thumbs.db
