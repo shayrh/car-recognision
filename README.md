@@ -7,7 +7,7 @@ Supports both **command-line** and **graphical** interfaces with optional **GPU 
 
 ## 🎥 Demo
 
-<video src="https://github.com/shayrh/car-recognision/raw/main/car_example.mp4" controls width="800"></video>
+![Demo Video](https://github.com/shayrh/car-recognision/raw/main/car_example.mp4)
 
 ---
 
