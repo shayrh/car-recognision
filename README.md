@@ -7,7 +7,11 @@ Supports both **command-line** and **graphical** interfaces with optional **GPU 
 
 ## 🎥 Demo
 
-https://raw.githubusercontent.com/shayrh/car-recognision/main/car_example.mp4
+<video controls width="640">
+  <source src="https://raw.githubusercontent.com/shayrh/car-recognision/main/car_example.mp4" type="video/mp4" />
+  Your browser does not support the video tag. You can
+  <a href="https://raw.githubusercontent.com/shayrh/car-recognision/main/car_example.mp4">download the video here</a>.
+</video>
 
 ---
 
