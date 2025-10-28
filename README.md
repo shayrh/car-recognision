@@ -7,7 +7,17 @@ Supports both **command-line** and **graphical** interfaces with optional **GPU 
 
 ## 🎥 Demo
 
-https://raw.githubusercontent.com/shayrh/car-recognision/main/car_example.mp4
+GitHub strips video tags from READMEs, so the demo is provided as a direct link that opens in
+GitHub's built-in video player:
+
+<p align="center">
+  <a href="https://github.com/shayrh/car-recognision/blob/main/car_example.mp4">
+    <img src="https://img.shields.io/badge/▶️%20Watch%20the%20demo-Click%20to%20play-blue?style=for-the-badge" alt="Watch the demo" />
+  </a>
+</p>
+
+If the embedded player still doesn't load for you, you can right-click the button above and
+choose “Open link in new tab” to download the video directly.
 
 ---
 
